@@ -1,6 +1,6 @@
 # Linux OS Deployment & Administration (Zorin OS)
 
-## 📌 Project Overview
+## Project Overview
 This project involved deploying a Linux-based operating system (Zorin OS 18.1 Core) on a Virtual Machine using VMware Workstation Pro. The objective was to gain hands-on experience with virtualization, OS installation, system performance management, and security configurations.
 
 ## Technical Implementation
